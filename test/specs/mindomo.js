@@ -49,6 +49,6 @@ describe('Mindomo', async () => {
         await $("#billingCity").getText("This field is mandatory."); // check the error message for City field
         await $("#tearmAndPrivacyErrorMsg").getText("Please agree with the Terms of Use and Privacy Policy."); // check the error message for T & C
        // await browser.pause(6000);
-
+        // boss de boss
     })
 }) 
