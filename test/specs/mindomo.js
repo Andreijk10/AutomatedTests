@@ -50,5 +50,6 @@ describe('Mindomo', async () => {
         await $("#tearmAndPrivacyErrorMsg").getText("Please agree with the Terms of Use and Privacy Policy."); // check the error message for T & C
        // await browser.pause(6000);
         // boss de boss
+        // Asa este !
     })
 }) 
