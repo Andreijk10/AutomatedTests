@@ -51,5 +51,6 @@ describe('Mindomo', async () => {
        // await browser.pause(6000);
         // boss de boss
         // Asa este ! BOSS de BOSSS
+        // Haoloo Fer
     })
 }) 
